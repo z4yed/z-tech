@@ -8,6 +8,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+nav {
+    background-color: rgb(62, 50, 75);
+}
+
 .mb-100px {
     margin-bottom: 100px;
 }
