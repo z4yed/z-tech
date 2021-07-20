@@ -1,0 +1,14 @@
+/* Importing Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+/* Common Styles */
+
+body {
+    background-color: #252b43;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mb-100px {
+    margin-bottom: 100px;
+}
