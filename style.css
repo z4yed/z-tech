@@ -28,3 +28,24 @@ nav {
     top: -23px;
     right: 8%;
 }
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li {
+    margin-top: 5px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+footer ul li:hover a{
+    padding: 2px 8px;
+    color: blue;
+    background-color: rgb(124, 133, 124);
+}
