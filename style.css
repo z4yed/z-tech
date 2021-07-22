@@ -15,3 +15,16 @@ nav {
 .mb-100px {
     margin-bottom: 100px;
 }
+
+.plan-price {
+    color: rgb(22, 114, 150);
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+#floating-div {
+    position: absolute;
+    color: white;
+    top: -28px;
+    right: 8%;
+}
